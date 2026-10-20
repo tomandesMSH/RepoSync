@@ -1,0 +1,8 @@
+{
+  "where": "C:/Users/tomandes/Documents/repos",
+  "protocol": "https",
+  "include_private": true,
+  "github_username": [
+    "tomandesmsh [exclude: test-*]"
+  ]
+}
